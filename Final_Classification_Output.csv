@@ -1,0 +1,114 @@
+True Folder,file Name,Predicted Category,Confidence Score
+Electrical,e-Rinker_078.pdf,Architectural,0.3321
+Electrical,e-Rinker_086.pdf,Architectural,0.3321
+Electrical,e-Rinker_084.pdf,Architectural,0.3321
+Electrical,e-Rinker_085.pdf,Architectural,0.3321
+Electrical,e-Rinker_080.pdf,Architectural,0.3321
+Electrical,e-Rinker_082.pdf,Architectural,0.3321
+Electrical,e-Rinker_083.pdf,Architectural,0.3321
+Electrical,13.pdf,Electrical,0.345
+Electrical,e-Rinker_077.pdf,Architectural,0.3321
+Electrical,1.pdf,Architectural,0.3321
+Electrical,e-Rinker_076.pdf,Architectural,0.3321
+Electrical,3.pdf,Electrical,0.89
+Electrical,2.pdf,Architectural,0.3321
+Fire Protection,fp-Rinker_088.pdf,Architectural,0.3321
+Fire Protection,fp-Rinker_089.pdf,Architectural,0.3321
+Architectural,a-Rinker_031.pdf,Architectural,0.3321
+Architectural,a-Rinker_019.pdf,Architectural,0.3321
+Architectural,a-Rinker_024.pdf,Architectural,0.3321
+Architectural,a-Rinker_032.pdf,Architectural,0.3321
+Architectural,Triangle-house-LAYOUT.pdf,Architectural,0.715
+Architectural,a-Rinker_027.pdf,Architectural,0.3321
+Architectural,a-Rinker_033.pdf,Architectural,0.3321
+Architectural,a-Rinker_022.pdf,Architectural,0.3321
+Architectural,[4] 64x60 house plan with4 bedrooms-SECC.pdf,Architectural,0.935
+Architectural,[2] One bedroom studio aparments-DIM.pdf,Architectural,0.935
+Architectural,a-Rinker_008.pdf,Architectural,0.3321
+Architectural,a-Rinker_035.pdf,Architectural,0.3321
+Architectural,a-Rinker_009.pdf,Architectural,0.3321
+Architectural,[1] 45x40 house with 3 Bedooms-LAYOUT.pdf,Architectural,0.935
+Architectural,A-sample-construction-plan-set.pdf,Architectural,0.3321
+Architectural,[2] 64x60 house plan with4 bedrooms-ROOF.pdf,Architectural,0.4263
+Architectural,a-Rinker_040.pdf,Architectural,0.3321
+Architectural,3-bedroom-house-with-double-garage.pdf,Architectural,0.99
+Architectural,[2] Alpine House A Frame with one bedroom-ELEVATIONS.pdf,Architectural,0.4263
+Architectural,[5] 64x60 house plan with4 bedrooms-SAN DETAILS.pdf,Architectural,0.7583
+Architectural,a-Rinker_010.pdf,Architectural,0.3321
+Architectural,6.pdf,Architectural,0.4789
+Architectural,7.pdf,Architectural,0.8382
+Architectural,a-Rinker_013.pdf,Architectural,0.3321
+Architectural,a-Rinker_007.pdf,Architectural,0.3321
+Architectural,[2] 45x40 house with 3 Bedooms-ELEVATION.pdf,Architectural,0.855
+Architectural,5.pdf,Architectural,0.4263
+Architectural,[2] Unsaved Drawing-LAYOUT (2).pdf,Architectural,0.6234
+Architectural,[1] Unsaved Drawing-LAYOUT.pdf,Architectural,0.7692
+Architectural,A-Rinker_006.pdf,Architectural,0.3321
+Architectural,a-Rinker_012.pdf,Architectural,0.3321
+Architectural,[1] Alpine House A Frame with one bedroom-LAYOUT.pdf,Architectural,0.8812
+Architectural,1.pdf,Architectural,0.4263
+Architectural,a-Rinker_029.pdf,Architectural,0.3321
+Architectural,a-Rinker_015.pdf,Architectural,0.3321
+Architectural,3.pdf,Architectural,0.8382
+Architectural,2.pdf,Architectural,0.6834
+Architectural,a-Rinker_014.pdf,Architectural,0.3321
+Mechanical,m1.pdf,Architectural,0.3321
+Mechanical,m3.pdf,Architectural,0.3321
+Mechanical,m-Rinker_068.pdf,Architectural,0.3321
+Mechanical,m4.pdf,Architectural,0.3321
+Mechanical,m5.pdf,Architectural,0.3321
+Mechanical,m-Rinker_064.pdf,Architectural,0.3321
+Mechanical,m-Rinker_066.pdf,Architectural,0.3321
+Mechanical,m-Rinker_063.pdf,Architectural,0.3321
+Mechanical,m-Rinker_061.pdf,Architectural,0.3321
+Plumbing,p-Rinker_070.pdf,Architectural,0.3321
+Plumbing,p-Rinker_071.pdf,Architectural,0.3321
+Plumbing,p-Rinker_073.pdf,Architectural,0.3321
+Plumbing,p-Rinker_072.pdf,Architectural,0.3321
+Plumbing,9.pdf,Plumbing,0.98
+Plumbing,8.pdf,Architectural,0.45
+Plumbing,p17.pdf,Mechanical,0.7727
+Plumbing,p15.pdf,Architectural,0.4789
+Plumbing,16.pdf,Plumbing,0.52
+Plumbing,29.pdf,Plumbing,0.595
+Plumbing,14.pdf,Plumbing,0.82
+Plumbing,28.pdf,Plumbing,0.7
+Plumbing,38.pdf,Plumbing,0.59
+Plumbing,39.pdf,Architectural,0.5675
+Plumbing,11.pdf,Architectural,0.635
+Plumbing,13.pdf,Architectural,0.44
+Plumbing,12.pdf,Architectural,0.625
+Plumbing,23.pdf,Plumbing,0.315
+Plumbing,37.pdf,Plumbing,0.615
+Plumbing,36.pdf,Plumbing,0.99
+Plumbing,22.pdf,Mechanical,0.415
+Plumbing,34.pdf,Architectural,0.38
+Plumbing,20.pdf,Plumbing,0.985
+Plumbing,21.pdf,Plumbing,0.97
+Plumbing,35.pdf,Plumbing,0.975
+Plumbing,31.pdf,Plumbing,0.57
+Plumbing,25.pdf,Plumbing,0.615
+Plumbing,18.pdf,Mechanical,0.445
+Plumbing,24.pdf,Plumbing,0.35
+Plumbing,32.pdf,Plumbing,0.715
+Plumbing,33.pdf,Architectural,0.38
+Plumbing,27.pdf,Plumbing,0.79
+Plumbing,6.pdf,Plumbing,0.885
+Plumbing,7.pdf,Plumbing,0.98
+Plumbing,41.pdf,Plumbing,0.795
+Plumbing,5.pdf,Plumbing,0.44
+Plumbing,43.pdf,Plumbing,0.655
+Plumbing,42.pdf,Plumbing,0.615
+Plumbing,1.pdf,Plumbing,0.755
+Plumbing,3.pdf,Plumbing,0.715
+Plumbing,2.pdf,Plumbing,0.71
+Plumbing,44.pdf,Plumbing,0.485
+Structural,9.pdf,Plumbing,0.49
+Structural,s-Rinker_059.pdf,Architectural,0.3321
+Structural,s-Rinker_058.pdf,Architectural,0.3321
+Structural,s-Rinker_051.pdf,Architectural,0.3321
+Structural,s-Rinker_053.pdf,Architectural,0.3321
+Structural,s-Rinker_052.pdf,Architectural,0.3321
+Structural,s-Rinker_056.pdf,Architectural,0.3321
+Structural,s-Rinker_057.pdf,Architectural,0.3321
+Structural,s-Rinker_054.pdf,Architectural,0.3321
